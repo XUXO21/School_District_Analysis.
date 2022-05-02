@@ -22,6 +22,8 @@ Never the less Maria has been informed about academic dishonesty on grades for T
     - For average scores, only math had non significant variation 
     - % of Passing students for math reduced -0.2 p.p. and for reading -0.3 p.p. while % of Overall passing reduced -0.1 p.p.
 
+![OrgDS](/original_distirct_summary.png)
+
 * School summary:
   - 461 students are not beeing taken in count for math and reading grades
   - Total student count diminishes from 39,170 to 38,709
